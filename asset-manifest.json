@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/juliyalip-goit-react-hw-01-components/static/css/main.a4947774.chunk.css",
+    "main.js": "/juliyalip-goit-react-hw-01-components/static/js/main.6f3239b7.chunk.js",
+    "main.js.map": "/juliyalip-goit-react-hw-01-components/static/js/main.6f3239b7.chunk.js.map",
+    "runtime-main.js": "/juliyalip-goit-react-hw-01-components/static/js/runtime-main.eb88211b.js",
+    "runtime-main.js.map": "/juliyalip-goit-react-hw-01-components/static/js/runtime-main.eb88211b.js.map",
+    "static/js/2.6c6c4b50.chunk.js": "/juliyalip-goit-react-hw-01-components/static/js/2.6c6c4b50.chunk.js",
+    "static/js/2.6c6c4b50.chunk.js.map": "/juliyalip-goit-react-hw-01-components/static/js/2.6c6c4b50.chunk.js.map",
+    "index.html": "/juliyalip-goit-react-hw-01-components/index.html",
+    "static/css/main.a4947774.chunk.css.map": "/juliyalip-goit-react-hw-01-components/static/css/main.a4947774.chunk.css.map",
+    "static/js/2.6c6c4b50.chunk.js.LICENSE.txt": "/juliyalip-goit-react-hw-01-components/static/js/2.6c6c4b50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb88211b.js",
+    "static/js/2.6c6c4b50.chunk.js",
+    "static/css/main.a4947774.chunk.css",
+    "static/js/main.6f3239b7.chunk.js"
+  ]
+}
