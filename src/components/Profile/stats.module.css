@@ -1,0 +1,15 @@
+.stats {
+  display: flex;
+  text-align: center;
+  padding-left: 0;
+
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.label {
+  margin-left: 15px;
+  font-weight: bold;
+  display: block;
+  color: yellow;
+}

@@ -1,0 +1,8 @@
+.item {
+  display: flex;
+  padding-left: 10px;
+  width: 200px;
+  border: 1px solid grey;
+  margin-top: 7px;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
